@@ -1,0 +1,6 @@
+{
+    "nama" : "audywp",
+    "umur" : 24,
+    "hobby" : ["Coding", "is", "my", "life"],
+    "addtional" : {"makanaFavorit" : "Martabak", "jumlahAnak" : 2, "BuahFavorit" : ["Apel", "Jeruk", "Alpukat"]}
+}
